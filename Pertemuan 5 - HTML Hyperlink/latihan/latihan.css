@@ -1,0 +1,48 @@
+/* Global styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header styling */
+h1 {
+    color: #333;
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+
+/* Ordered list styling */
+ol {
+    list-style-type: decimal;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Link styling */
+a {
+    text-decoration: none;
+    color: #0056b3;
+    font-size: 1.1em;
+}
+
+a:hover {
+    color: #003d80;
+    text-decoration: underline;
+}
+
+/* Hover effect for list items */
+li:hover {
+    background-color: #e0e7ff;
+    border-radius: 5px;
+    padding: 5px;
+}
