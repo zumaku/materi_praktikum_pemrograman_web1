@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan HTML Form</title>
+</head>
+<body>
+    <h2>Form Data Diri</h2>
+    <table>
+        <tr>
+            <td><label for="nama"><strong>Nama</strong></label></td>
+            <td><input type="text"id="nama"></td>
+        </tr>
+        <tr>
+            <td><label for="tgllahir"><strong>Tgl Lahir</strong></label></td>
+            <td><input type="date" id="tgllahir"></td>
+        </tr>
+        <tr>
+            <td><label for="laki"><strong>Jenis Kelamin</strong></label></td>
+            <td>
+                <input type="radio" name="jnsklm" id="laki">
+                <label for="laki">Laki-laki</label>
+                <input type="radio" name="jnsklm" id="perem">
+                <label for="perem">Perempuan</label>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Hobi</strong></td>
+            <td>
+                <input type="checkbox" name="hobi" id="ngoding">
+                <label for="ngoding">Ngoding</label>
+                <input type="checkbox" name="hobi" id="desain">
+                <label for="desain">Desain</label>
+                <input type="checkbox" name="hobi" id="masak">
+                <label for="masak">Masak</label>
+                <input type="checkbox" name="hobi" id="olahraga">
+                <label for="olahraga">Olahraga</label>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="pesan"><strong>Pesan</strong></label></td>
+            <td><textarea name="" id="pesan" rows="5"></textarea></td>
+        </tr>
+        <tr>
+            <td><button>Kirim</button></td>
+        </tr>
+    </table>
+</body>
+</html>
