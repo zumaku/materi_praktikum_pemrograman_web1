@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan JS</title>
+</head>
+<body>
+    
+    <script>
+        alert("Menghitung Luas")
+
+        const menu = prompt("Masukkan nilai 1 (Luas Persegi) atau 2 (Luar Segi Tiga)")
+
+        if(menu == 1){
+            let a = prompt("Masukkan Nilai 1")
+            let b = prompt("Masukkan Nilai 2")
+            const hasil = a * b
+            alert(`Hasil Luas Persegi adalah ${hasil}`)
+        } else if(menu == 2){
+            let a = prompt("Masukkan Nilai 1")
+            let b = prompt("Masukkan Nilai 2")
+            const hasil = 1/2 * a * b
+            alert(`Hasil Luas Segi Tiga adalah ${hasil}`)
+        } else{
+            alert('Input yang dimasukkan salah')
+        }
+
+        // if(menu != 1 || menu != 2){
+        //     alert('Input yang dimasukkan salah')
+        // } else{
+            
+        // }
+
+    </script>
+
+</body>
+</html>
