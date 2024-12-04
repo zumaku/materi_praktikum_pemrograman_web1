@@ -1,0 +1,38 @@
+/* Reset Style Default */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.berita{
+    width: 33.3%;
+    background-color: rgb(216, 216, 216);
+    margin: 30px;
+    border-radius: 10px;
+}
+
+div.b1{
+    
+}
+
+img.gambar{
+    width: 100%;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+p.tgl{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+h3.judul{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+p.deskripsi{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
