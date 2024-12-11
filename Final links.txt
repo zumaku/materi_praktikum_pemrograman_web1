@@ -1,0 +1,16 @@
+## Websites
+
+1. [Portopolio Website](https://www.youtube.com/watch?v=ssEiM3zyN08)
+2. [Hospital Website](https://www.youtube.com/watch?v=m2Sz-43azgw)
+3. [Market Place Website](https://www.youtube.com/watch?v=AMI-6F7CSFc)
+4. [Travel Website](https://www.youtube.com/watch?v=VA8cgdMpNf4)
+5. [Warkop Website](https://www.youtube.com/watch?v=r6U29PXHtdg)
+
+---
+
+Penilaian
+
+1. Website selesai tepat waktu 50%
+2. Konten dimodifikasi dengan baik 25%
+3. Dapat memperbaiki bagian kode yang dihilangkan 25%
+4. Website responsif 10%

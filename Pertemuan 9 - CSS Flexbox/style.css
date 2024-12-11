@@ -1,0 +1,70 @@
+/* Reset Style Default */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.berita{
+    /* width: 33.3%; */
+    width: 300px;
+    background-color: rgb(216, 216, 216);
+    margin: 30px;
+    border-radius: 10px;
+}
+
+div.b1{
+    
+}
+
+img.gambar{
+    width: 100%;
+    margin-bottom: 8px;
+    border-radius: 10px;
+
+    display: flex;
+    
+}
+
+p.tgl{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+h3.judul{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+p.deskripsi{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
+
+
+
+
+
+
+
+div.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+div.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./imgs/hero.jpg");
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+}
+
+div.hero h1{
+    padding-bottom: 30px;
+}
