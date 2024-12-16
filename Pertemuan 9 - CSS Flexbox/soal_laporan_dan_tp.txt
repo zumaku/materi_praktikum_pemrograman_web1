@@ -1,0 +1,7 @@
+## Soal TP
+
+1. Apa perbedaan antara var, let, dan const dalam JavaScript?
+2. Jelaskan perbedaan alert, confirm, dan prompt!
+3. Berikan contoh penggunaan prompt!
+4. Jelaskan apa itu DOM serta sebutkan perannya dalam membangun website!
+5. Tuliskan contoh manipulasi DOM berupa mengubah kelas suatu elemen!
