@@ -1,6 +1,10 @@
-const h1 = document.querySelector("#h1")
-const btn = document.querySelector("#btn")
+const h1 = document.querySelector(".default")
+const btn1 = document.querySelector(".btn1")
+const btn2 = document.querySelector(".btn2")
 
-btn.addEventListener(("click"), () => {
-    h1.classList.add("style_ubah")
+btn1.addEventListener("click", () => {
+    h1.classList.add("blue")
+})
+btn2.addEventListener("click", () => {
+    h1.classList.add("green")
 })
