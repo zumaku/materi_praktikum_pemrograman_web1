@@ -36,7 +36,7 @@
 </head>
 <body>
     
-    <h1 class="default">Belajar JavaScript</h1>
+    <h1 class="default">Zul Fadli Ahmad</h1>
     <button class="btn1">Ubah Style Biru</button>
     <button class="btn2">Ubah Style Hijau</button>
 
